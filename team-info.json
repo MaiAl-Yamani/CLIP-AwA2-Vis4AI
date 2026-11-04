@@ -1,5 +1,14 @@
 {
-    "team_name": "Team Name",
+    "team_name": "Neural Canvas",
+    "students": [
+        {
+            "student_id": "k12442702",
+            "first_name": "Mai",
+            "last_name": "Elyamani",
+            "email": "mai.elyamni@gmail.com",
+            "github_user": "MaiAl-Yamani"
+        },
+
     "students": [
         {
             "student_id": "k00000000",
@@ -8,6 +17,23 @@
             "email": "first.last@mail.com",
             "github_user": "mygitusername"
         },
-        // ...add a record for each student
+
+    "students": [
+        {
+            "student_id": "k00000000",
+            "first_name": "First",
+            "last_name": "Last",
+            "email": "first.last@mail.com",
+            "github_user": "mygitusername"
+        },
+
+    "students": [
+        {
+            "student_id": "k00000000",
+            "first_name": "First",
+            "last_name": "Last",
+            "email": "first.last@mail.com",
+            "github_user": "mygitusername"
+        }
     ]
 }
