@@ -9,7 +9,6 @@
             "github_user": "MaiAl-Yamani"
         },
 
-    "students": [
         {
             "student_id": "k12349108",
             "first_name": "Zolboo",
@@ -18,7 +17,6 @@
             "github_user": "chimzol"
         },
 
-    "students": [
         {
             "student_id": "k00000000",
             "first_name": "First",
@@ -27,7 +25,6 @@
             "github_user": "mygitusername"
         },
 
-    "students": [
         {
             "student_id": "k00000000",
             "first_name": "First",
@@ -35,5 +32,6 @@
             "email": "first.last@mail.com",
             "github_user": "mygitusername"
         }
+        
     ]
 }
