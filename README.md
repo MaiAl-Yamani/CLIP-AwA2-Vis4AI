@@ -17,6 +17,7 @@ Human-only: Mai Elyamani &
 **Findings**
 
 **Were there insights found by the human-only pair that the AI-aided pair overlooked, or vice versa?**
+
 Both pairs found that animals sharing more attributes tend to be confused more often by CLIP, but the relationship is weak. The GenAI pair also found that some visually distinct animals had very high attribute similarity scores. Scores did no always match how similar animals actually look.
 
 **How did their visualization choices differ?**
