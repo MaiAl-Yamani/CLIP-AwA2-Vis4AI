@@ -18,11 +18,11 @@ Human-only: Mai Elyamani &
 
 **Were there insights found by the human-only pair that the AI-aided pair overlooked, or vice versa?**
 
-Both pairs found that animals sharing more attributes tend to be confused more often by CLIP, but the relationship is weak. The GenAI pair also found that some visually distinct animals had very high attribute similarity scores. Scores did no always match how similar animals actually look.
+Both pairs found that animals sharing more attributes tend to be confused more often by CLIP, but the relationship is weak. The GenAI pair also found that some visually distinct animals had very high attribute similarity scores. Scores did no always match how similar animals look in real life.
 
 **How did their visualization choices differ?**
 
-The AI-aided pair used a clustered Jaccard similarity heatmap to group animals with similar attributes and focused on misclassification examples. The human pair used a regular heatmap and showed a wider range of misclassified images.
+The AI-aided pair used a clustered Jaccard similarity heatmap to group animals with similar attributes and focused on misclassification. The human pair used a regular heatmap and showed a wider range of misclassified images.
 
 **Did AI assistance change the breadth or depth of the investigation?**
 
@@ -30,7 +30,7 @@ GenAI helped us explore different ways to compare animal attributes and classifi
 
 **Did it help the AI-aided pair move more quickly, or did verifying and correcting AI suggestions introduce additional work?**
 
-GenAI helped with planning and code implementation. However, some suggestions produced unexpected results or coding errors, so we spent additional time checking and correcting them. We cannot say exactly how much time it saved.
+GenAI helped with planning and code implementing. However, some suggestions produced unexpected results or coding errors, so we spent additional time checking and correcting them. We cannot say exactly how much time it saved.
 
 **How did the two pairs differ in their confidence in their conclusions, and what evidence justified that confidence?**
 
