@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-09T18:14:04",
+  "model": "ViT-B-16-quickgelu",
+  "pretrained": "openai",
+  "prompt": "a photo of a {}.",
+  "n_images": 5000,
+  "device": "mps",
+  "torch": "2.6.0",
+  "open_clip": "4.2.1",
+  "note": "zero-shot. scores are cosine similarity, not probabilities"
+}
