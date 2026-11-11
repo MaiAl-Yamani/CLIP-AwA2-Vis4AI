@@ -3,10 +3,9 @@ Favour Dilichukwu Ozioma - RQ1
 
 Zolboo Chimedregzen K12349108 - RQ2
 
-**RQ1:** Which animal classes does CLIP confuse most frequently?
-
 
 **RQ2:** Are animals with more shared visual attributes more likely to be misclassified as each other?
+
 **GenAI:** ChatGPT (OpenAI)
 
 As for RQ2, I used ChatGPT to help me with analythic methods and visualizations to solve the RQ. It was very useful for developing and planning the analysis step by step when I wanted to dig deeper in a result or compare different approaches. Unfortunately, not every suggestion was suitable, so I still had to evaluate them and make final decisions which made the most sense for the task.
@@ -21,16 +20,7 @@ Compare different methods before landing on one - I compared suggested regular a
 
 Question the suggested statistical methods -  standard Spearman significance test did not take into consideration the dependence between animal pairs. Checking this helped me choose a more appropriate test (class label permutance) and avoid reaching misleading conclusions.
 
-
-# CLIP on AwA2: which animal classes get confused
-
-Phase I, RQ1. AI-aided report.
-
-Author: Favour Dilichukwu Ozioma
-
-## 1. Research question
-
-Which animal classes does CLIP confuse most frequently?
+**RQ1:** which animal classes get confused?
 
 ## 2. Method
 
