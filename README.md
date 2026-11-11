@@ -82,5 +82,6 @@ GenAI helped us explore different ways to compare animal attributes and classifi
 GenAI helped with planning and code implementing. However, some suggestions produced unexpected results or coding errors, so we spent additional time checking and correcting them. We cannot say exactly how much time it saved.
 
 **How did the two pairs differ in their confidence in their conclusions, and what evidence justified that confidence?**
+
 Although the GenAI-aided pair used only 33 appearance-related attributes, while the human-only pair used all 85 attributes, both reached a similar conclusion that attribute similarity has a weak positive relationship with classification errors.
 
