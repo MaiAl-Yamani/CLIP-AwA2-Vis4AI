@@ -1,11 +1,25 @@
 {
-    "team_name": "Team Name",
+    "team_name": "Neural Canvas",
     "students": [
         {
-            "first_name": "First",
-            "last_name": "Last",
+            "first_name": "Zolboo",
+            "last_name": "Chimedregzen",
             "workload": 0.25
         },
-        // ...add a record for each student
+        {
+            "first_name": "Favour Dilichukwu",
+            "last_name": "Ozioma",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Md Hassin Rahman",
+            "last_name": "Anoy",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Mai",
+            "last_name": "Elyamani",
+            "workload": 0.25
+        }
     ]
 } 

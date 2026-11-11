@@ -12,7 +12,7 @@ RQ1: Which animal classes does CLIP confuse most frequently? We analyzed classif
 RQ2: Are animals with more shared visual attributes more likely to be misclassified as each other? We focused on visually similar species and observed if shared visual attributes are associated with more frequent misclassifications.
 
 GenAI-assisted: Zolboo Chimedregzen RQ2 (ChatGPT) & Favour Dilichukwu Ozioma RQ1 (Claude)
-Human-only: Mai Elyamani & 
+Human-only: Mai Elyamani (Data Visualization and Error Analysis) & Md Hassin Rahman Anoy (Dataset Preparation and CLIP Predictions)
 
 ## Phase I — Results and Findings
 
